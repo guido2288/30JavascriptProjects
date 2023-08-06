@@ -3,6 +3,7 @@
 - Weather App
 - To-Do List App
 - Quiz App
+- Password Generator App
 
 ## Weather App
 
@@ -24,3 +25,9 @@ After selecting one answer you can not change the answer, you can only go for ne
 When user will submit the answer of last question and click on the next button. Then it will display the score.
 
 ![Print](./QuizApp/images/Camptura.png)
+
+## Password Generator App
+
+This app will generate a strong password with Upper case, lower case, numbers and symbols. We will also add password copy icon to copy the new generated password.
+
+![Print](./PasswordGenerator/images/Captura.png)
