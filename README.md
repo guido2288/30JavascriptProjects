@@ -4,6 +4,7 @@
 - To-Do List App
 - Quiz App
 - Password Generator App
+- Notes App
 
 ## Weather App
 
@@ -31,3 +32,9 @@ When user will submit the answer of last question and click on the next button. 
 This app will generate a strong password with Upper case, lower case, numbers and symbols. We will also add password copy icon to copy the new generated password.
 
 ![Print](./PasswordGenerator/images/Captura.png)
+
+## Notes App
+
+This app create personal notes, that will store the notes in your web browser using Local Storage. So that if you close and restart the browser then also it will display your saved notes.
+
+![Print](./NotesApp/images/Captura.png)
