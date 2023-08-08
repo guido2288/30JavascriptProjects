@@ -5,6 +5,7 @@
 - Quiz App
 - Password Generator App
 - Notes App
+- Age Calculator App
 
 ## Weather App
 
@@ -38,3 +39,9 @@ This app will generate a strong password with Upper case, lower case, numbers an
 This app create personal notes, that will store the notes in your web browser using Local Storage. So that if you close and restart the browser then also it will display your saved notes.
 
 ![Print](./NotesApp/images/Captura.png)
+
+## Age Calculator App
+
+This age calculator app has one data input box, where it display the calendar to pick date of birth. after selecting date of birth click on calculate button then it will display the exact age till today. This age calculator app will display the exact age in years, months and days.
+
+![Print](./AgeCalculatorApp/images/Captura.png)
