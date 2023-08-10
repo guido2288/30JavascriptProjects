@@ -7,6 +7,7 @@
 - Notes App
 - Age Calculator App
 - Quote Generator App
+- QR Generator App
 
 ## Weather App
 
