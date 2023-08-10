@@ -52,3 +52,9 @@ This age calculator app has one data input box, where it display the calendar to
 Every time people will visit this website it will display a new Quote. In this code generator website we will add a button that will generator new quote when clicked on it. and there will be one more button to share this quote on the Twitter.
 
 ![Print](./07-QuoteGeneratorApp/images/Captura.png)
+
+## QR Code Generator App
+
+This QR Code Generator can make QR Code of any Text or Link. You will get the QR Code in Image format.
+
+![Print](./08-QrGeneratorApp/images/Captura.png)
