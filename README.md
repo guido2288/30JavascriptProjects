@@ -7,6 +7,7 @@
 - Notes App
 - Age Calculator App
 - Quote Generator App
+- QR Generator App
 
 ## Weather App
 
@@ -58,9 +59,3 @@ Every time people will visit this website it will display a new Quote. In this c
 This QR Code Generator can make QR Code of any Text or Link. You will get the QR Code in Image format.
 
 ![Print](./08-QrGeneratorApp/images/Captura.png)
-
-## Toast Notification
-
-Toast notification for website or snack bar notification using HTML CSS and JavaScript. We will add one progress bar also in this toast. This snack bar will be animated with the help for CSS animation. This toast notification will disappear automatically after fixed time.
-
-![Print](./09-ToastNotification/images/Captura.png)
