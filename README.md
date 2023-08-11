@@ -8,6 +8,7 @@
 - Age Calculator App
 - Quote Generator App
 - QR Generator App
+- Toast Notification
 
 ## Weather App
 
