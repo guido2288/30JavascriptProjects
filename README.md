@@ -3,6 +3,12 @@
 - Weather App
 - To-Do List App
 - Quiz App
+- PasswordGenerator
+- Notes App
+- Age Calculator App
+- Quote Generator App
+- QR Generator App
+- Toast Notification
 
 ## Weather App
 
@@ -58,3 +64,5 @@ This QR Code Generator can make QR Code of any Text or Link. You will get the QR
 ## Toast Notification
 
 Toast notification for website or snack bar notification using HTML CSS and JavaScript. We will add one progress bar also in this toast. This snack bar will be animated with the help for CSS animation. This toast notification will disappear automatically after fixed time.
+
+![Print](./09-ToastNotification/images/Captura.png)
