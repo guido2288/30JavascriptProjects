@@ -66,3 +66,9 @@ This QR Code Generator can make QR Code of any Text or Link. You will get the QR
 Toast notification for website or snack bar notification using HTML CSS and JavaScript. We will add one progress bar also in this toast. This snack bar will be animated with the help for CSS animation. This toast notification will disappear automatically after fixed time.
 
 ![Print](./09-ToastNotification/images/Captura.png)
+
+## Music Player
+
+Music player for website, where we will add song and song's control button to play or pause the song. we will also add progress bar that will display the current time of the song.
+
+![Print](./10-MusicPlayer/images/Captura.png)

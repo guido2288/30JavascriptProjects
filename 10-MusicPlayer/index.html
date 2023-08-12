@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Music Player</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="music-player">
+        <nav>
+          <div class="circle">
+            <box-icon name="chevron-left" color="#f53192" size="md"></box-icon>
+          </div>
+          <div class="circle">
+            <box-icon name="menu" color="#f53192" size="md"></box-icon>
+          </div>
+        </nav>
+        <img src="./images/artworks.jpg" class="song-img" />
+        <h1>Is This Really Happening?</h1>
+        <p>TrackTribe</p>
+
+        <audio id="song">
+          <source
+            src="./Media/Is This Really Happening_ - TrackTribe.mp3"
+            type="audio/mpeg"
+          />
+        </audio>
+        <input type="range" value="0" id="progress" />
+
+        <div class="controls">
+          <div>
+            <box-icon
+              type="solid"
+              name="chevrons-left"
+              color="#f53192"
+            ></box-icon>
+          </div>
+          <div id="playIcon">
+            <box-icon
+              type="solid"
+              name="right-arrow"
+              color="#fff"
+              id="ctrolIconPlay"
+            ></box-icon>
+            <box-icon
+              name="pause"
+              color="#fff"
+              id="ctrolIconPause"
+              size="md"
+              class="hidden"
+            ></box-icon>
+          </div>
+          <div>
+            <box-icon
+              type="solid"
+              name="chevrons-right"
+              color="#f53192"
+            ></box-icon>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
+    <script src="./script.js"></script>
+  </body>
+</html>
