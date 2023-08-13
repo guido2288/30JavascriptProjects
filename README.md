@@ -72,3 +72,9 @@ Toast notification for website or snack bar notification using HTML CSS and Java
 Music player for website, where we will add song and song's control button to play or pause the song. we will also add progress bar that will display the current time of the song.
 
 ![Print](./10-MusicPlayer/images/Captura.png)
+
+## Stop Watch
+
+We will display the timer and there will be 3 buttons to control this stopwatch timer. We can Start, Stop and Reset thetimer in this Stopwatch.
+
+![Print](./11-StopWatch/images/Captura.png)
