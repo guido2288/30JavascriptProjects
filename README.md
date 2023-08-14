@@ -78,3 +78,9 @@ Music player for website, where we will add song and song's control button to pl
 We will display the timer and there will be 3 buttons to control this stopwatch timer. We can Start, Stop and Reset thetimer in this Stopwatch.
 
 ![Print](./11-StopWatch/images/Captura.png)
+
+## Calculator App
+
+In this calculator we will create UI design using HTML and CSS then we will add calculator functionality with the help for simple JavaScript code.
+
+![Print](./12-Calculator/images/Captura.png)
