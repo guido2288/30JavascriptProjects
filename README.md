@@ -84,3 +84,9 @@ We will display the timer and there will be 3 buttons to control this stopwatch 
 In this calculator we will create UI design using HTML and CSS then we will add calculator functionality with the help for simple JavaScript code.
 
 ![Print](./12-CalculatorApp/images/Captura.png)
+
+## Popup
+
+Model box or Popup website using HTML, CSS and JavaScript with animations.
+
+![Print](./13-Popup/images/Captura.png)
