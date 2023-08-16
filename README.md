@@ -90,3 +90,9 @@ In this calculator we will create UI design using HTML and CSS then we will add 
 Model box or Popup website using HTML, CSS and JavaScript with animations.
 
 ![Print](./13-Popup/images/Captura.png)
+
+## PasswordToggle
+
+In this password field we will add an icon to hide and display the password written in the input filed. The icon will be updated too when we click on it. 
+
+![Print](./14-PasswordToggle/images/Captura.png)
