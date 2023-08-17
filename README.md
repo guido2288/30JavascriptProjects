@@ -96,3 +96,9 @@ Model box or Popup website using HTML, CSS and JavaScript with animations.
 In this password field we will add an icon to hide and display the password written in the input filed. The icon will be updated too when we click on it. 
 
 ![Print](./14-PasswordToggle/images/Captura.png)
+
+## DarkMode
+
+Light mode and dark mode switching option on website using HTML CSS and JavaScript.
+
+![Print](./15-DarkMode/images/Captura.png)
