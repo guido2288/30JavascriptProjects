@@ -102,3 +102,9 @@ In this password field we will add an icon to hide and display the password writ
 Light mode and dark mode switching option on website using HTML CSS and JavaScript.
 
 ![Print](./15-DarkMode/images/Captura.png)
+
+## FormValidation
+
+In this contact form we will validate the name, email, phone number and text message field using JavaScript.
+
+![Print](./16-FormValidation/images/Captura.png)
