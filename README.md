@@ -93,7 +93,7 @@ Model box or Popup website using HTML, CSS and JavaScript with animations.
 
 ## PasswordToggle
 
-In this password field we will add an icon to hide and display the password written in the input filed. The icon will be updated too when we click on it. 
+In this password field we will add an icon to hide and display the password written in the input filed. The icon will be updated too when we click on it.
 
 ![Print](./14-PasswordToggle/images/Captura.png)
 
@@ -108,3 +108,9 @@ Light mode and dark mode switching option on website using HTML CSS and JavaScri
 In this contact form we will validate the name, email, phone number and text message field using JavaScript.
 
 ![Print](./16-FormValidation/images/Captura.png)
+
+## Image Gallery
+
+Horizontal Scrolling with mouse wheel Using JavaScript
+
+![Print](./17-ImageGallery/images/Captura.png)
