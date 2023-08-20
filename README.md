@@ -114,3 +114,9 @@ In this contact form we will validate the name, email, phone number and text mes
 Horizontal Scrolling with mouse wheel Using JavaScript
 
 ![Print](./17-ImageGallery/images/Captura.png)
+
+## Email Subscription
+
+On this website we will add an Email subscription form or newsletter subscription form also. We will send this HTML form data on Google Sheets so that we can see the email subscribers list on Google Sheets.
+
+![Print](./18-EmailSubscription/images/Captura.png)
