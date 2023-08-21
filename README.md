@@ -120,3 +120,9 @@ Horizontal Scrolling with mouse wheel Using JavaScript
 On this website we will add an Email subscription form or newsletter subscription form also. We will send this HTML form data on Google Sheets so that we can see the email subscribers list on Google Sheets.
 
 ![Print](./18-EmailSubscription/images/Captura.png)
+
+## Password Strength
+
+Is password input box, and when we will enter anything in the password field then it will display the password strength and it will also change the border color of password field according to the password strength.
+
+![Print](./19-PasswordStrength/images/Captura.png)
