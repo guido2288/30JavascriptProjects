@@ -126,3 +126,9 @@ On this website we will add an Email subscription form or newsletter subscriptio
 Is password input box, and when we will enter anything in the password field then it will display the password strength and it will also change the border color of password field according to the password strength.
 
 ![Print](./19-PasswordStrength/images/Captura.png)
+
+## Voice Converter
+
+Text to speech converter or Text to voice generator app using HTML CSS and JavaScript.We can generate the speech in different voices.
+
+![Print](./20-VoiceConverter/images/Captura.png)
