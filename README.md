@@ -138,3 +138,10 @@ Text to speech converter or Text to voice generator app using HTML CSS and JavaS
 Coming soon page design or website under maintenance page design. Time and date countdown using JavaScript that will update every seconds and it will display the days hours minutes and seconds left to launch the website.
 
 ![Print](./21-ComingSoon/images/Captura.png)
+
+## Image Transition
+
+Website design where we add one image, when we will move the cursor over this image, it will display the transparent background image.
+We will also add a vertical line and an arrow icon that will separate the original image and transparent background image.
+
+![Print](./22-ImageTransition/images/Captura.png)
