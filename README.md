@@ -145,3 +145,9 @@ Website design where we add one image, when we will move the cursor over this im
 We will also add a vertical line and an arrow icon that will separate the original image and transparent background image.
 
 ![Print](./22-ImageTransition/images/Captura.png)
+
+## Mini Calendar
+
+This calendar will display the today's date, day, month and year. This date will be updated every day.
+
+![Print](./23-MiniCalendar/images/Captura.png)
