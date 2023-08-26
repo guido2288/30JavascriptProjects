@@ -151,3 +151,9 @@ We will also add a vertical line and an arrow icon that will separate the origin
 This calendar will display the today's date, day, month and year. This date will be updated every day.
 
 ![Print](./23-MiniCalendar/images/Captura.png)
+
+## Select Menu
+
+Custom select menu using HTML, CSS and JavaScript. When I click on this select field, it will open the options and here you can see the icon is rotating.
+
+![Print](./24-SelectMenu/images/Captura.png)
