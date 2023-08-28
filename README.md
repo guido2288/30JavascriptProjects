@@ -163,3 +163,10 @@ Custom select menu using HTML, CSS and JavaScript. When I click on this select f
 Neomorphism Design Progress Bar.
 
 ![Print](./25-ProgressBar/images/Captura.png)
+
+## Product Page
+
+Product page design that can be used on ecommerce website. On this product page design we will display the product image gallery and product description. We will also add option to choose the product variation before buying.
+
+![Print](./26-ProductPage/images/Captura.png)
+
