@@ -175,3 +175,9 @@ Product page design that can be used on ecommerce website. On this product page 
 On this website we will display the live price of the cryptocurrency with free api, we will display the price of cryptocurrency with the help of JavaScript and jQuery. 
 
 ![Print](./27-CryptoCurrency/images/Captura.png)
+
+## Digital Clock
+
+ Digital clock that will display the current time in Hours, Minutes and second. This JavaScript clock display the time as per Local time zone.
+
+![Print](./28-DigitalClock/images/Captura.png)
