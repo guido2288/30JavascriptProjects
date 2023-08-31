@@ -178,6 +178,12 @@ On this website we will display the live price of the cryptocurrency with free a
 
 ## Digital Clock
 
- Digital clock that will display the current time in Hours, Minutes and second. This JavaScript clock display the time as per Local time zone.
+Digital clock that will display the current time in Hours, Minutes and second. This JavaScript clock display the time as per Local time zone.
 
 ![Print](./28-DigitalClock/images/Captura.png)
+
+## Drag And Drop
+
+List items with HTML element and that can be drag and drop to another block using HTML and CSS. We can drag the HTML element from block 1 to block 2 and block 2 to block 1 with JavaScript.
+
+![Print](./29-DragAndDrop/images/Captura.png)
